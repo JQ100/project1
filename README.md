@@ -1,6 +1,6 @@
 # project1 - sales predictions
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Predicting Future Sales
+## Using preprocessing and data modelling
 
 Jerry Qian
 
